@@ -1,58 +1,83 @@
-👋 Halo, Saya Adikto Dwi Pratama Hamdi!
+<h1 align="center">Hi 👋, I'm Adikto Dwi Pratama Hamdi</h1>
+<h3 align="center">A passionate student from X PPLG at SMK Muhammadiyah 3 Tangerang Selatan.</h3><div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+  <br>
+  <br>
+</div><p align="center">
+  💻 I love coding &nbsp;&nbsp; 🚀 Learning new things &nbsp;&nbsp; 🎮 Exploring technology
+</p><div align="center">"Profile Views" (https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
-👨‍💻 Pelajar | X PPLG
+</div>---
 
-Selamat datang di repository GitHub saya! 🚀
+🖐️ About Me
 
-Saya Adikto Dwi Pratama Hamdi, siswa kelas X PPLG di SMK Muhammadiyah 3 Tangerang Selatan.
-
-Saya sedang belajar dan mengembangkan kemampuan di bidang Pemrograman dan Pengembangan Perangkat Lunak.
-
----
-
-🎓 Tentang Saya
-
-- 👤 Nama: Adikto Dwi Pratama Hamdi
-- 🏫 Sekolah: SMK Muhammadiyah 3 Tangerang Selatan
-- 📚 Kelas: X PPLG
-- 💻 Jurusan: Pengembangan Perangkat Lunak dan Gim (PPLG)
-- 🌱 Sedang belajar: C++, HTML, CSS, dan pemrograman dasar
-
----
-
-💻 Skill yang Sedang Dipelajari
-
-"C++" (https://img.shields.io/badge/C++-Learning-blue?style=flat&logo=cplusplus)
-"HTML" (https://img.shields.io/badge/HTML-Learning-orange?style=flat&logo=html5)
-"CSS" (https://img.shields.io/badge/CSS-Learning-blue?style=flat&logo=css3)
-"GitHub" (https://img.shields.io/badge/GitHub-Learning-black?style=flat&logo=github)
+- 👤 My full name is Adikto Dwi Pratama Hamdi
+- 🏫 I'm a student at SMK Muhammadiyah 3 Tangerang Selatan
+- 📚 I'm currently in Class X PPLG
+- 💻 My major is Pengembangan Perangkat Lunak dan Gim (PPLG)
+- 🌱 I'm currently learning Programming and Software Development
+- 🚀 I'm interested in coding, technology, and creating projects
+- 🎯 My goal is to become a skilled programmer
 
 ---
 
-📂 Isi Repository
+💻 Skills I'm Learning
 
-Repository ini digunakan untuk menyimpan:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,vscode" />
+</p>---
 
-- 📖 Tugas sekolah
-- 💻 Latihan coding
-- 🧑‍💻 Project PPLG
-- 📝 Catatan pembelajaran
-- 🚀 Project pribadi
+📚 What I'm Learning
+
+📖 Subject| 💡 Description
+💻 C++| Basic programming and algorithms
+🌐 HTML| Creating web pages
+🎨 CSS| Designing web pages
+🔧 Git & GitHub| Managing and publishing projects
+🧠 Programming| Learning logic and problem solving
 
 ---
 
-🎯 Tujuan
+🚀 My Projects
 
-«Terus belajar, terus berkembang, dan menjadi programmer yang lebih baik setiap hari. 🚀»
+📂 School Projects
+
+Project| Description
+💻 C++ Exercises| Collection of basic C++ programming exercises
+🌐 HTML Project| Simple website development project
+📚 PPLG Tasks| Collection of assignments from X PPLG
+
+«🚧 More projects coming soon...»
+
+---
+
+🎯 My Goals
+
+- 📖 Improve my programming skills
+- 💻 Create useful projects
+- 🚀 Learn different programming languages
+- 🧠 Improve problem-solving skills
+- 🌟 Build a great portfolio
 
 ---
 
 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
----
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
-⭐ Terima kasih sudah mengunjungi repository saya!
+</div>---
 
-© 2026 Adikto Dwi Pratama Hamdi
+📫 Connect With Me
+
+<p align="center">
+  <b>Adikto Dwi Pratama Hamdi</b><br>
+  X PPLG — SMK Muhammadiyah 3 Tangerang Selatan
+</p>---
+
+<div align="center">⭐ Thanks for visiting my GitHub repository!
+
+Keep Learning • Keep Coding • Keep Growing 🚀
+
+</div>
